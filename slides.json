@@ -41,6 +41,17 @@
     "note": "Semi-serious phase"
   },
   {
+    "title": "Baseline Requirements \ud83d\udccb",
+    "bullets": [
+      "Agent orchestration patterns",
+      "Tool execution workflows",
+      "State management patterns",
+      "Multi-agent coordination",
+      "Observability and tracing"
+    ],
+    "note": "Before we can be chaotic"
+  },
+  {
     "title": "Agent Primitives",
     "bullets": [
       "Orchestration \u2014 control logic, routing, policy",
@@ -342,25 +353,25 @@
     "note": "Stack overflow incoming"
   },
   {
-    "title": "Q2 Goals \ud83d\udcc5",
+    "title": "Product-Aligned Research \ud83c\udfaf",
     "bullets": [
-      "Ship the Agent Factory (Rand's goal)",
-      "Demonstrate live-editing chaos",
-      "Get more GPUs (we need more chaos)",
-      "Add Sharanya to the agent swarm",
-      "Build something useful (eventually)"
+      "Page needs concrete research goals",
+      "That align with Agent Factory",
+      "That Rand will approve",
+      "Not just add more parameters",
+      "Actually improve the product"
     ],
-    "note": "The next 3 months"
+    "note": "Research that ships"
   },
   {
-    "title": "Success Metrics \u2705",
+    "title": "Page's Research Problem \ud83e\udde0",
     "bullets": [
-      "Agent Factory ships to prod",
-      "We have 10x more GPUs",
-      "At least 2 agents are friends",
-      "Page stops talking about research",
-      "Rand escapes the computer"
+      "Page talks about research",
+      "But needs to concretize something relevant",
+      "To our product that Rand can get behind",
+      "Not theoretical ML research",
+      "Actually shipable research"
     ],
-    "note": "Q2 is doable"
+    "note": "Research must align with product"
   }
 ]
