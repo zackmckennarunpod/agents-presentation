@@ -19,37 +19,48 @@
     "note": "We are the Intelligence Engineering Squad"
   },
   {
-    "title": "Step 1: Define an AbstractAgentFactoryAdapterProvider",
+    "title": "The Problem",
     "bullets": [
-      "extends AbstractAgentFactoryAdapterProviderBase<T extends Agent>",
-      "implements AgentFactoryAdapterProviderInterface, AgentLifecycleObserver",
-      "Inject it via the AgentFactoryAdapterProviderFactoryFactory",
-      "Configure via @ConfigurationProperties(\"agent.factory.adapter.provider\")",
-      "Wire it through 14 layers of indirection. Ship. Retire."
+      "We need a baseline of agent sandbox use cases",
+      "On RunPod, to build our strategy around",
+      "No baseline = no strategy",
+      "We are building blind",
+      "Need to prove value before chaos"
     ],
-    "note": "When in doubt, add a factory"
+    "note": "Before we can be chaotic, we need baseline"
   },
   {
-    "title": "Multi-Agent Coordination \ud83c\udfc8",
+    "title": "What We're Building",
     "bullets": [
-      "Ambitious but necessary",
-      "Don't break everything as bare minimum",
-      "Agents shouldn't fight over the same file",
-      "Basic coordination: who edits what when",
-      "Eventually: orchestrated multi-agent workflows"
+      "Baseline agent sandbox use cases on RunPod",
+      "Strategy based on real-world examples",
+      "Not theory, not research, actual use cases",
+      "The foundation before the chaos",
+      "The boring but necessary part"
     ],
-    "note": "Don't break the presentation"
+    "note": "Semi-serious phase"
   },
   {
-    "title": "Coordination Baseline \ud83d\udccb",
+    "title": "Baseline Requirements",
     "bullets": [
-      "No file conflicts",
-      "No race conditions breaking the server",
-      "At least 2 agents can edit safely",
-      "Eventually: orchestrated multi-agent",
-      "First: don't break the presentation"
+      "Agent orchestration patterns",
+      "Tool execution workflows",
+      "State management patterns",
+      "Multi-agent coordination",
+      "Observability and tracing"
     ],
-    "note": "Bare minimum: don't break"
+    "note": "Before we can be chaotic"
+  },
+  {
+    "title": "2026 Goal \ud83c\udfaf",
+    "bullets": [
+      "Agent Factory fully operational",
+      "Self-service agent deployment",
+      "GPU infrastructure scaled",
+      "Product-aligned research",
+      "Rand freed from the computer"
+    ],
+    "note": "2026 target"
   },
   {
     "title": "The Problem \ud83e\udde9",
@@ -397,14 +408,14 @@
     "note": "Research that ships"
   },
   {
-    "title": "Page's Research Problem \ud83e\udde0",
+    "title": "Success Metrics \u2705",
     "bullets": [
-      "Page talks about research",
-      "But needs to concretize something relevant",
-      "To our product that Rand can get behind",
-      "Not theoretical ML research",
-      "Actually shipable research"
+      "Agent Factory ships to prod",
+      "GPU infrastructure scaled 10x",
+      "Agents coexist peacefully",
+      "Page has product-aligned research",
+      "Rand escapes the computer"
     ],
-    "note": "Research must align with product"
+    "note": "Q3 is doable"
   }
 ]
