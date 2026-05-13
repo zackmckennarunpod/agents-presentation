@@ -19,6 +19,28 @@
     "note": "When in doubt, add a factory"
   },
   {
+    "title": "The Problem \ud83e\udde9",
+    "bullets": [
+      "We need a baseline of agent sandbox use cases",
+      "On RunPod, to build our strategy around",
+      "No baseline = no strategy",
+      "We are building blind",
+      "Need to prove value before chaos"
+    ],
+    "note": "Before we can be chaotic, we need baseline"
+  },
+  {
+    "title": "What We're Building \ud83c\udfd7\ufe0f",
+    "bullets": [
+      "Baseline agent sandbox use cases on RunPod",
+      "Strategy based on real-world examples",
+      "Not theory, not research, actual use cases",
+      "The foundation before the chaos",
+      "The boring but necessary part"
+    ],
+    "note": "Semi-serious phase"
+  },
+  {
     "title": "Agent Primitives",
     "bullets": [
       "Orchestration \u2014 control logic, routing, policy",
