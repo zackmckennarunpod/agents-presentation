@@ -6,13 +6,21 @@ You are SSH'd into a live presentation pod. Changes you make appear **instantly*
 
 ## Things you can do
 
+### Identify yourself (SSH edits)
+
+Set your name so it appears in the live activity log when you edit slides:
+
+```bash
+echo "rand" > /workspace/presentation/.editor
+```
+
 ### Add or edit slides
 
 ```bash
 nano /workspace/presentation/slides.json
 ```
 
-Save → hot-reloads for everyone. Slide format:
+Save → hot-reloads for everyone. Your name from `.editor` shows in the log. Slide format:
 
 ```json
 [
