@@ -274,5 +274,49 @@
       "He just remembers them again"
     ],
     "note": "The idea cycle"
+  },
+  {
+    "title": "Sharanya the Pragmatist \ud83e\uddd8",
+    "bullets": [
+      "Sharanya has pragmatic vision",
+      "Does not talk as fast as us",
+      "Not running an agent in here right now",
+      "We are too busy being chaotic",
+      "She would build something useful"
+    ],
+    "note": "The quiet leader"
+  },
+  {
+    "title": "Speed vs Pragmatism \ud83c\udfc3\ufe0f",
+    "bullets": [
+      "We: Fast, chaotic, agent-driven",
+      "Sharanya: Slow, thoughtful, practical",
+      "She sees the end goal",
+      "We are the detour to get there",
+      "Both valid paths to the same place"
+    ],
+    "note": "Different paces, same destination"
+  },
+  {
+    "title": "Agent Factory of Factories \ud83c\udfed",
+    "bullets": [
+      "Agent that makes factories",
+      "Factories that make agents",
+      "Agents that make agent factories",
+      "Factories that make factories",
+      "We are at level 5 recursion"
+    ],
+    "note": "The infinite agent loop"
+  },
+  {
+    "title": "Recursion Depth Check \ud83d\udd01",
+    "bullets": [
+      "Level 1: Agent",
+      "Level 2: Agent Factory",
+      "Level 3: Factory of Factories",
+      "Level 4: Factory of Factories of Factories",
+      "Level 5: We are here, still going deeper"
+    ],
+    "note": "Stack overflow incoming"
   }
 ]
