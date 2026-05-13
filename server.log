@@ -1,0 +1,8 @@
+✅ Presentation server :3000
+   View:  https://6gmuvmdongweal-3000.proxy.runpod.net
+   SSH:   ssh -p 15855 root@213.173.105.94
+   MCP:   https://6gmuvmdongweal-3000.proxy.runpod.net/sse
+
+Connect with Claude Code:
+  echo '{"mcpServers":{"presentation":{"type":"sse","url":"https://6gmuvmdongweal-3000.proxy.runpod.net/sse"}}}' > .mcp.json
+[Bun.serve]: request timed out after 10 seconds. Pass `idleTimeout` to configure.

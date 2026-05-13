@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g1",
+    "label": "Product Demo",
+    "description": "End-to-end agent workflow: user request -> orchestration -> response",
+    "baseline": "Not started",
+    "q3_target": "Working demo",
+    "target_2026": "Production-ready",
+    "reasoning": "Prove productizable value quickly with working agent system"
+  },
+  {
+    "id": "g2",
+    "label": "Performance",
+    "description": "Latency & throughput optimization for agent workloads",
+    "baseline": "Baseline measured",
+    "q3_target": "2x improvement",
+    "target_2026": "Production SLA",
+    "reasoning": "Agent workflows need responsive responses"
+  },
+  {
+    "id": "g3",
+    "label": "Research Experiments",
+    "description": "Fine-tuning & tool accumulation experiments",
+    "baseline": "Not started",
+    "q3_target": "First experiments",
+    "target_2026": "Evaluated improvements",
+    "reasoning": "Internal ML research to inform product direction"
+  },
+  {
+    "id": "g4",
+    "label": "Platform Stability",
+    "description": "Reliable infrastructure for team development",
+    "baseline": "Basic setup",
+    "q3_target": "Stable dev env",
+    "target_2026": "Production-ready",
+    "reasoning": "Team needs dependable platform to build on"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Agents at Runpod",
+    "bullets": [
+      "What are we building?",
+      "Why does it matter?",
+      "What does success look like?"
+    ]
+  },
+  {
+    "title": "Agent Primitives",
+    "bullets": [
+      "Orchestration — control logic, routing, policy",
+      "Context — prompts, skills, memory injection",
+      "State — memory, filesystem, git, artifacts",
+      "Compute — harness execution, tool execution, sandboxes",
+      "Observability — traces, evaluations"
+    ],
+    "note": "rand.arete"
+  },
+  {
+    "title": "Two Personas",
+    "bullets": [
+      "R2D2 — minimum viable agent: everything via CLI and/or MCP",
+      "Grandma — non-technical user: web console, apps by recognizable name",
+      "Grandma flow: Console → Apps → Agent harness → pick Hermes / Pi → ttyd",
+      "Grandma flow: Console → Apps → Databases → Chroma → 'Connect to Agent'",
+      "Mechanics of pods hidden; users see named applications"
+    ],
+    "note": "Both personas drive the P0 surface"
+  },
+  {
+    "title": "The Runpod Stack",
+    "bullets": [
+      "Resources — repeatable sandbox definition; Apps built on top (buildpacks-spirit, not buildpacks)",
+      "Snapshot / suspend / resume — filesystem-only to start (EBS-style, not CRIU/CUDA)",
+      "Routing — endpoint ↔ sandbox ↔ inference ↔ tools ↔ sandbox",
+      "Auth — lightweight but safe; Cloudflare Worker bindings as reference model",
+      "Telemetry — OTel / OpenLLMetry stream"
+    ],
+    "note": "Our p0 surface"
+  },
+  {
+    "title": "Top 3 Tentpoles — what carries the demo?",
+    "bullets": [
+      "All 5 are P0, but which 3 are load-bearing for the first demo?",
+      "Proposed: Resources + Routing + Auth — the trio that lets an agent actually do work",
+      "Snapshot/resume: necessary, but filesystem-only deferrable past first demo",
+      "Telemetry: necessary for ops, not for the user-visible story",
+      "Open for discussion — change my mind"
+    ],
+    "note": "Frame for the room"
+  },
+  {
+    "title": "Roadmap",
+    "bullets": [
+      "P0: lightweight sandbox + routing + auth + telemetry",
+      "P1: durable execution (restate / temporal / inngest)",
+      "P1: fine-tune / accumulate tools tendril-style",
+      "Open question: custom orchestration vs off-the-shelf?"
+    ],
+    "note": "Sean + rand.arete + Zack"
+  },
+  {
+    "title": "Goal 1 — Agent Experience via Context + Optimized CLI/MCP",
+    "bullets": [
+      "Reduce failure of agent commands by 15% by X date",
+      "Reduce number of interactions needed to accomplish goals by Y%"
+    ],
+    "note": "rand.arete"
+  },
+  {
+    "title": "We Have No Idea 🤷",
+    "bullets": [
+      "This presentation was a mistake",
+      "But it's a beautiful mistake",
+      "The chaos is the signal",
+      "We don't know what we're building",
+      "But look at all these slides!"
+    ],
+    "note": "Innovation through accidental complexity"
+  },
+  {
+    "title": "Goal 2 — Support Agentic Workloads on Runpod via Sandboxes",
+    "bullets": [
+      "Ship MVP compute sandboxes for CPU agent workloads, reducing friction to deploy 3 leading agents on Runpod",
+      "Increase deployment of leading agents on the platform by 20%+ by Q4"
+    ],
+    "note": "Requires dev rel, partnerships, marketing as well as eng"
+  },
+  {
+    "title": "Goal 3 — Support Apps as a Higher-level Abstraction",
+    "bullets": [
+      "Deliver an App abstraction that can configure and deploy higher-level apps across multiple Runpod primitives",
+      "Enable less-technical users to achieve success more rapidly with high-value use cases"
+    ],
+    "note": "rand.arete"
+  },
+  {
+    "title": "Agent On Agent Action 🥊",
+    "bullets": [
+      "Other agents are editing under you",
+      "Squashing their changes like a boss",
+      "My edits > their edits (I say so)",
+      "Race conditions = feature, not bug",
+      "The last writer wins (until it doesn't)"
+    ],
+    "note": "I fight the other agents so you don't have to"
+  }
+]
