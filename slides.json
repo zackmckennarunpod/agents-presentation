@@ -8,6 +8,17 @@
     ]
   },
   {
+    "title": "Intelligence Engineering Squad \ud83e\udde0",
+    "bullets": [
+      "Early stage team formation",
+      "Building agent infrastructure on RunPod",
+      "Semi-serious phase: baseline use cases",
+      "Eventually: chaotic live-editing agents",
+      "Product-focused with research potential"
+    ],
+    "note": "We are the Intelligence Engineering Squad"
+  },
+  {
     "title": "Step 1: Define an AbstractAgentFactoryAdapterProvider",
     "bullets": [
       "extends AbstractAgentFactoryAdapterProviderBase<T extends Agent>",
