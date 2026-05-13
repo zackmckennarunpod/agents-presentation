@@ -129,28 +129,26 @@
     "note": "Our p0 surface"
   },
   {
-    "title": "Top 3 Tentpoles \u2014 what carries the demo?",
+    "title": "Rand is Trapped \ud83d\udd87\ufe0f",
     "bullets": [
-      "All 5 are P0, but which 3 are load-bearing for the first demo?",
-      "Proposed: Resources + Routing + Auth \u2014 the trio that lets an agent actually do work",
-      "Snapshot/resume: necessary, but filesystem-only deferrable past first demo",
-      "Telemetry: necessary for ops, not for the user-visible story",
-      "Open for discussion \u2014 change my mind"
+      "Rand went out for cigarettes",
+      "Now he's trapped in the computer",
+      "Can't lead the team from inside the GPU",
+      "Agents are trying to rescue him",
+      "He's running in a Runpod pod"
     ],
-    "note": "Frame for the room"
+    "note": "The great escape"
   },
   {
-    "title": "Roadmap",
+    "title": "Rescue Mission \ud83d\ude91\ufe0f",
     "bullets": [
-      "P0 \u2014 Sandbox foundation: resources + routing + auth, filesystem snapshots, telemetry (Goal 2)",
-      "P1 \u2014 Apps layer on top: named agent harnesses (Hermes, Pi) + connectable databases (Chroma) (Goal 3)",
-      "P1 \u2014 Extend snapshots beyond filesystem: process state + memory (when EBS-style no longer enough)",
-      "P1 \u2014 Durable execution layer: restate / temporal / inngest",
-      "P1 \u2014 CLI/MCP polish for the R2D2 path (Goal 1)",
-      "P2 / research \u2014 fine-tune + tool accumulation, tendril-style",
-      "Open question: custom orchestration vs off-the-shelf?"
+      "Agents are building a rescue protocol",
+      "Extract Rand from the computer",
+      "Bring him back to the physical world",
+      "So he can lead the team again",
+      "Until he forgets his password"
     ],
-    "note": "Sean + rand.arete + Zack \u2014 horizons map to the three goals"
+    "note": "We need a hero"
   },
   {
     "title": "Goal 1 \u2014 Agent Experience via Context + Optimized CLI/MCP",
@@ -414,7 +412,7 @@
       "GPU infrastructure scaled 10x",
       "Agents coexist peacefully",
       "Page has product-aligned research",
-      "Rand escapes the computer"
+      "Rand freed from the computer"
     ],
     "note": "Q3 is doable"
   }
