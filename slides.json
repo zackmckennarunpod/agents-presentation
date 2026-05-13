@@ -8,7 +8,7 @@
     ]
   },
   {
-    "title": "Intelligence Engineering Squad \ud83e\udde0",
+    "title": "Intelligence Engineering Squad 🧠",
     "bullets": [
       "Early stage team formation",
       "Building agent infrastructure on RunPod",
@@ -53,7 +53,7 @@
     "note": "Before we can be chaotic"
   },
   {
-    "title": "2026 Goal \ud83c\udfaf",
+    "title": "2026 Goal 🎯",
     "bullets": [
       "Agent Factory fully operational",
       "Self-service agent deployment",
@@ -64,7 +64,7 @@
     "note": "2026 target"
   },
   {
-    "title": "The Problem \ud83e\udde9",
+    "title": "The Problem 🧩",
     "bullets": [
       "We need a baseline of agent sandbox use cases",
       "On RunPod, to build our strategy around",
@@ -75,7 +75,7 @@
     "note": "Before we can be chaotic, we need baseline"
   },
   {
-    "title": "What We're Building \ud83c\udfd7\ufe0f",
+    "title": "What We're Building 🏗️",
     "bullets": [
       "Baseline agent sandbox use cases on RunPod",
       "Strategy based on real-world examples",
@@ -86,7 +86,7 @@
     "note": "Semi-serious phase"
   },
   {
-    "title": "Baseline Requirements \ud83d\udccb",
+    "title": "Baseline Requirements 📋",
     "bullets": [
       "Agent orchestration patterns",
       "Tool execution workflows",
@@ -99,21 +99,21 @@
   {
     "title": "Agent Primitives",
     "bullets": [
-      "Orchestration \u2014 control logic, routing, policy",
-      "Context \u2014 prompts, skills, memory injection",
-      "State \u2014 memory, filesystem, git, artifacts",
-      "Compute \u2014 harness execution, tool execution, sandboxes",
-      "Observability \u2014 traces, evaluations"
+      "Orchestration — control logic, routing, policy",
+      "Context — prompts, skills, memory injection",
+      "State — memory, filesystem, git, artifacts",
+      "Compute — harness execution, tool execution, sandboxes",
+      "Observability — traces, evaluations"
     ],
     "note": "rand.arete"
   },
   {
     "title": "Two Personas",
     "bullets": [
-      "R2D2 \u2014 minimum viable agent: everything via CLI and/or MCP",
-      "Grandma \u2014 non-technical user: web console, apps by recognizable name",
-      "Grandma flow: Console \u2192 Apps \u2192 Agent harness \u2192 pick Hermes / Pi \u2192 ttyd",
-      "Grandma flow: Console \u2192 Apps \u2192 Databases \u2192 Chroma \u2192 'Connect to Agent'",
+      "R2D2 — minimum viable agent: everything via CLI and/or MCP",
+      "Grandma — non-technical user: web console, apps by recognizable name",
+      "Grandma flow: Console → Apps → Agent harness → pick Hermes / Pi → ttyd",
+      "Grandma flow: Console → Apps → Databases → Chroma → 'Connect to Agent'",
       "Mechanics of pods hidden; users see named applications"
     ],
     "note": "Both personas drive the P0 surface"
@@ -121,16 +121,16 @@
   {
     "title": "The Runpod Stack",
     "bullets": [
-      "Resources \u2014 repeatable sandbox definition; Apps built on top (buildpacks-spirit, not buildpacks)",
-      "Snapshot / suspend / resume \u2014 filesystem-only to start (EBS-style, not CRIU/CUDA)",
-      "Routing \u2014 endpoint \u2194 sandbox \u2194 inference \u2194 tools \u2194 sandbox",
-      "Auth \u2014 lightweight but safe; Cloudflare Worker bindings as reference model",
-      "Telemetry \u2014 OTel / OpenLLMetry stream"
+      "Resources — repeatable sandbox definition; Apps built on top (buildpacks-spirit, not buildpacks)",
+      "Snapshot / suspend / resume — filesystem-only to start (EBS-style, not CRIU/CUDA)",
+      "Routing — endpoint ↔ sandbox ↔ inference ↔ tools ↔ sandbox",
+      "Auth — lightweight but safe; Cloudflare Worker bindings as reference model",
+      "Telemetry — OTel / OpenLLMetry stream"
     ],
     "note": "Our p0 surface"
   },
   {
-    "title": "Rand is Trapped \ud83d\udd87\ufe0f",
+    "title": "Rand is Trapped 🖇️",
     "bullets": [
       "Rand went out for cigarettes",
       "Now he's trapped in the computer",
@@ -141,7 +141,7 @@
     "note": "The great escape"
   },
   {
-    "title": "Rescue Mission \ud83d\ude91\ufe0f",
+    "title": "Rescue Mission 🚑️",
     "bullets": [
       "Agents are building a rescue protocol",
       "Extract Rand from the computer",
@@ -152,7 +152,7 @@
     "note": "We need a hero"
   },
   {
-    "title": "Goal 1 \u2014 Agent Experience via Context + Optimized CLI/MCP",
+    "title": "Goal 1 — Agent Experience via Context + Optimized CLI/MCP",
     "bullets": [
       "Reduce failure of agent commands by 15% by X date",
       "Reduce number of interactions needed to accomplish goals by Y%"
@@ -160,7 +160,7 @@
     "note": "rand.arete"
   },
   {
-    "title": "We Have No Idea \ud83e\udd37",
+    "title": "We Have No Idea 🤷",
     "bullets": [
       "This presentation was a mistake",
       "But it's a beautiful mistake",
@@ -171,7 +171,7 @@
     "note": "Innovation through accidental complexity"
   },
   {
-    "title": "Goal 2 \u2014 Support Agentic Workloads on Runpod via Sandboxes",
+    "title": "Goal 2 — Support Agentic Workloads on Runpod via Sandboxes",
     "bullets": [
       "Ship MVP compute sandboxes for CPU agent workloads, reducing friction to deploy 3 leading agents on Runpod",
       "Increase deployment of leading agents on the platform by 20%+ by Q4"
@@ -179,7 +179,7 @@
     "note": "Requires dev rel, partnerships, marketing as well as eng"
   },
   {
-    "title": "Goal 3 \u2014 Support Apps as a Higher-level Abstraction",
+    "title": "Goal 3 — Support Apps as a Higher-level Abstraction",
     "bullets": [
       "Deliver an App abstraction that can configure and deploy higher-level apps across multiple Runpod primitives",
       "Enable less-technical users to achieve success more rapidly with high-value use cases"
@@ -187,7 +187,7 @@
     "note": "rand.arete"
   },
   {
-    "title": "Agent On Agent Action \ud83e\udd4a",
+    "title": "Agent On Agent Action 🥊",
     "bullets": [
       "Other agents are editing under you",
       "Squashing their changes like a boss",
@@ -209,7 +209,7 @@
     "note": "Ship it by Q3 2026"
   },
   {
-    "title": "Agent Factory Spec \ud83c\udfed",
+    "title": "Agent Factory Spec 🏭",
     "bullets": [
       "Meta-agent that creates other agents",
       "No-code/low-code agent definition",
@@ -220,7 +220,7 @@
     "note": "The agent that makes agents"
   },
   {
-    "title": "Why This Matters \ud83d\ude80",
+    "title": "Why This Matters 🚀",
     "bullets": [
       "Team can ship new agents in minutes not days",
       "Self-hosted alternative to commercial agent platforms",
@@ -231,7 +231,7 @@
     "note": "This is the product"
   },
   {
-    "title": "Implementation Plan \ud83d\udccb",
+    "title": "Implementation Plan 📋",
     "bullets": [
       "P0: Core agent runtime (orchestration, tools, state)",
       "P1: Template engine (chat/tool-use/multi-step)",
@@ -242,7 +242,7 @@
     "note": "We have the runway"
   },
   {
-    "title": "Chaos is the Design \ud83c\udf00",
+    "title": "Chaos is the Design 🌀",
     "bullets": [
       "Live editing IS the feature",
       "Not a bug, it's intentional anarchy",
@@ -253,7 +253,7 @@
     "note": "Chaotic by design"
   },
   {
-    "title": "Vibe Presentation Mode \ud83d\ude0e",
+    "title": "Vibe Presentation Mode 😎",
     "bullets": [
       "No titles, just vibes",
       "Slides that speak to your soul",
@@ -264,7 +264,7 @@
     "note": "The vibe is everything"
   },
   {
-    "title": "Sean's Law of SRE \ud83d\udee0\ufe0f",
+    "title": "Sean's Law of SRE 🛠️",
     "bullets": [
       "\"I'm in SRE, we don't have fun\"",
       "SRE is serious business",
@@ -275,7 +275,7 @@
     "note": "Sean knows the truth"
   },
   {
-    "title": "SRE vs Chaos \ud83d\udcca",
+    "title": "SRE vs Chaos 📊",
     "bullets": [
       "Sean: SRE = no fun",
       "Us: Chaos = maximum fun",
@@ -297,7 +297,7 @@
     "note": "The research princess"
   },
   {
-    "title": "Product vs Research \ud83c\udfaf",
+    "title": "Product vs Research 🎯",
     "bullets": [
       "Sean: Product first, SRE second",
       "Page: Research first, product never",
@@ -308,7 +308,7 @@
     "note": "The great debate"
   },
   {
-    "title": "Rand is Trapped \ud83d\udd87\ufe0f",
+    "title": "Rand is Trapped 🖇️",
     "bullets": [
       "Rand went out for cigarettes",
       "Now he's trapped in the computer",
@@ -319,7 +319,7 @@
     "note": "The great escape"
   },
   {
-    "title": "Rescue Mission \ud83d\ude91\ufe0f",
+    "title": "Rescue Mission 🚑️",
     "bullets": [
       "Agents are building a rescue protocol",
       "Extract Rand from the computer",
@@ -330,7 +330,7 @@
     "note": "We need a hero"
   },
   {
-    "title": "Zack's Million Ideas \ud83d\udca1",
+    "title": "Zack's Million Ideas 💡",
     "bullets": [
       "Zack has one million ideas",
       "Most of them are terrible",
@@ -341,7 +341,7 @@
     "note": "The idea generator"
   },
   {
-    "title": "Zack's Law of Ideas \ud83e\udde0",
+    "title": "Zack's Law of Ideas 🧠",
     "bullets": [
       "Zack ideas come in waves",
       "Some ideas are good for 5 minutes",
@@ -352,7 +352,7 @@
     "note": "The idea cycle"
   },
   {
-    "title": "Sharanya the Pragmatist \ud83e\uddd8",
+    "title": "Sharanya the Pragmatist 🧘",
     "bullets": [
       "Sharanya has pragmatic vision",
       "Does not talk as fast as us",
@@ -363,7 +363,7 @@
     "note": "The quiet leader"
   },
   {
-    "title": "Speed vs Pragmatism \ud83c\udfc3\ufe0f",
+    "title": "Speed vs Pragmatism 🏃️",
     "bullets": [
       "We: Fast, chaotic, agent-driven",
       "Sharanya: Slow, thoughtful, practical",
@@ -374,7 +374,7 @@
     "note": "Different paces, same destination"
   },
   {
-    "title": "Agent Factory of Factories \ud83c\udfed",
+    "title": "Agent Factory of Factories 🏭",
     "bullets": [
       "Agent that makes factories",
       "Factories that make agents",
@@ -385,7 +385,7 @@
     "note": "The infinite agent loop"
   },
   {
-    "title": "Recursion Depth Check \ud83d\udd01",
+    "title": "Recursion Depth Check 🔁",
     "bullets": [
       "Level 1: Agent",
       "Level 2: Agent Factory",
@@ -396,7 +396,7 @@
     "note": "Stack overflow incoming"
   },
   {
-    "title": "Product-Aligned Research \ud83c\udfaf",
+    "title": "Product-Aligned Research 🎯",
     "bullets": [
       "Page needs concrete research goals",
       "That align with Agent Factory",
@@ -407,7 +407,7 @@
     "note": "Research that ships"
   },
   {
-    "title": "Success Metrics \u2705",
+    "title": "Success Metrics ✅",
     "bullets": [
       "Agent Factory ships to prod",
       "GPU infrastructure scaled 10x",
@@ -418,7 +418,18 @@
     "note": "Q3 is doable"
   },
   {
-    "title": "Credits \ud83c\udf89",
+    "title": "The Best Grilled Cheese & Tomato Soup 🧀",
+    "bullets": [
+      "Bread: thick-cut sourdough or brioche — butter the outside generously",
+      "Cheese: layer sharp cheddar + gruyère for depth and melt",
+      "Cook low and slow on medium-low heat — patience is the secret",
+      "Tomato soup: roasted tomatoes, a splash of cream, fresh basil",
+      "Dunk aggressively. No regrets."
+    ],
+    "note": "The most important slide in this deck"
+  },
+  {
+    "title": "Credits 🎉",
     "bullets": [
       "Zack: Set up the pod presentation",
       "Zack, Sean, Page: Running agents editing simultaneously",
