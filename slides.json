@@ -230,5 +230,49 @@
       "Page makes the research models"
     ],
     "note": "The great debate"
+  },
+  {
+    "title": "Rand is Trapped \ud83d\udd87\ufe0f",
+    "bullets": [
+      "Rand went out for cigarettes",
+      "Now he's trapped in the computer",
+      "Can't lead the team from inside the GPU",
+      "Agents are trying to rescue him",
+      "He's running in a Runpod pod"
+    ],
+    "note": "The great escape"
+  },
+  {
+    "title": "Rescue Mission \ud83d\ude91\ufe0f",
+    "bullets": [
+      "Agents are building a rescue protocol",
+      "Extract Rand from the computer",
+      "Bring him back to the physical world",
+      "So he can lead the team again",
+      "Until he forgets his password"
+    ],
+    "note": "We need a hero"
+  },
+  {
+    "title": "Zack's Million Ideas \ud83d\udca1",
+    "bullets": [
+      "Zack has one million ideas",
+      "Most of them are terrible",
+      "Some of them are brilliant",
+      "None of them are documented",
+      "We build them as they come"
+    ],
+    "note": "The idea generator"
+  },
+  {
+    "title": "Zack's Law of Ideas \ud83e\udde0",
+    "bullets": [
+      "Zack ideas come in waves",
+      "Some ideas are good for 5 minutes",
+      "Then they become terrible",
+      "Zack forgets his own ideas",
+      "He just remembers them again"
+    ],
+    "note": "The idea cycle"
   }
 ]
