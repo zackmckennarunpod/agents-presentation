@@ -1,11 +1,14 @@
 [
   {
-    "title": "Agents at Runpod",
+    "title": "Grilled Cheese 🧀",
     "bullets": [
-      "What are we building?",
-      "Why does it matter?",
-      "What does success look like?"
-    ]
+      "The foundation of all great meals",
+      "Thick-cut sourdough, butter on both sides",
+      "Sharp cheddar + gruyere for maximum melt",
+      "Medium-low heat — patience is the secret weapon",
+      "Pair with tomato soup. Non-negotiable."
+    ],
+    "note": "The most important slide in this deck"
   },
   {
     "title": "Intelligence Engineering Squad 🧠",
@@ -14,7 +17,12 @@
       "Building agent infrastructure on RunPod",
       "Semi-serious phase: baseline use cases",
       "Eventually: chaotic live-editing agents",
-      "Product-focused with research potential"
+      "Product-focused with research potential",
+      "The board is set. The pieces are moving. We come to it at last — sprint planning.",
+      "I would have followed you, my brother. My captain. My SRE.",
+      "Nine companions. One repo. Zero passing tests at the start.",
+      "What about second standup?",
+      "The Fellowship of the Ring had terrible sprint velocity too"
     ],
     "note": "We are the Intelligence Engineering Squad"
   },
@@ -25,7 +33,12 @@
       "On RunPod, to build our strategy around",
       "No baseline = no strategy",
       "We are building blind",
-      "Need to prove value before chaos"
+      "Need to prove value before chaos",
+      "The treachery of Isengard... is a perfect metaphor for tech debt",
+      "Something draws near. I can feel it. It's the quarterly review.",
+      "We cannot get out. A shadow moves in the dark. We cannot get out.",
+      "They have a cave troll. We have legacy PHP.",
+      "Fool of a Took! Throw yourself in next time and rid us of your bad estimates!"
     ],
     "note": "Before we can be chaotic, we need baseline"
   },
@@ -37,7 +50,12 @@
       "Not theory, not research, actual use cases",
       "The foundation before the chaos",
       "The boring but necessary part",
-      "hello, world!"
+      "hello, world!",
+      "We swears on the Precious to ship by Friday",
+      "I am no man — I am a full-stack agent",
+      "There is some good in this world and it's worth building for",
+      "And thus it was. A Fourth Age deployment. And the Fellowship of the sprint was ended.",
+      "End? No, the journey doesn't end here. CI never truly ends."
     ],
     "note": "Semi-serious phase"
   },
@@ -48,7 +66,12 @@
       "Tool execution workflows",
       "State management patterns",
       "Multi-agent coordination",
-      "Observability and tracing"
+      "Observability and tracing",
+      "Requirements are like the One Ring: one set to rule them all",
+      "Do not meddle in the affairs of requirements, for they are subtle and quick to change",
+      "This task was appointed to you, and if you do not find a way, no one will",
+      "Certainty of death. Small chance of success. Baseline requirements met. What are we waiting for?",
+      "I am a servant of the Secret Fire, wielder of the flame of Anor — and I will write the spec"
     ],
     "note": "Before we can be chaotic"
   },
@@ -59,7 +82,12 @@
       "Self-service agent deployment",
       "GPU infrastructure scaled",
       "Product-aligned research",
-      "Rand freed from the computer"
+      "Rand freed from the computer",
+      "I made a promise, Mr. Frodo. A promise to ship by 2026.",
+      "The world is changed. I feel it in the water. I feel it in the earth. I smell it in the GPU exhaust.",
+      "Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer — probably Q3.",
+      "There and back again: a deployment tale",
+      "I can't carry the goal for you. But I can carry you — Samwise DevOps"
     ],
     "note": "2026 target"
   },
@@ -70,7 +98,12 @@
       "On RunPod, to build our strategy around",
       "No baseline = no strategy",
       "We are building blind",
-      "Need to prove value before chaos"
+      "Need to prove value before chaos",
+      "Deep roots are not reached by the frost — unlike our stack, which is frozen",
+      "All that is gold does not glitter. Not all features that ship are finished.",
+      "The wise speak only of what they know. Our backlog speaks otherwise.",
+      "I don't know why, but I feel I need to ship this before I can rest",
+      "Strider. That's what they call me. Nobody calls me by my proper ticket number."
     ],
     "note": "Before we can be chaotic, we need baseline"
   },
@@ -81,7 +114,12 @@
       "Strategy based on real-world examples",
       "Not theory, not research, actual use cases",
       "The foundation before the chaos",
-      "The boring but necessary part"
+      "The boring but necessary part",
+      "We are plain quiet folk and have no use for adventures — except we DO, actually",
+      "Courage is found in unlikely places — like the staging environment",
+      "Home is behind, the world ahead, and there are many paths to tread through shadow, to the edges of the night, until the stars are all alight",
+      "I feel thin, sort of stretched, like butter scraped over too much bread — our codebase",
+      "The finest rockets in the Shire were due entirely to our own efforts"
     ],
     "note": "Semi-serious phase"
   },
@@ -92,7 +130,12 @@
       "Tool execution workflows",
       "State management patterns",
       "Multi-agent coordination",
-      "Observability and tracing"
+      "Observability and tracing",
+      "It is not our part to master all the tides of the world but to do what is in us for the good of those years we are given",
+      "Many that live deserve death. And some that die deserve life. Can you give it to them? I cannot. But I can write a failing test.",
+      "Go back to the shadow! — what we say to deprecated APIs",
+      "I have passed through fire and deep water since we parted",
+      "You shall be the Fellowship of the sprint — nine engineers who each break the build in different ways"
     ],
     "note": "Before we can be chaotic"
   },
@@ -103,7 +146,12 @@
       "Context — prompts, skills, memory injection",
       "State — memory, filesystem, git, artifacts",
       "Compute — harness execution, tool execution, sandboxes",
-      "Observability — traces, evaluations"
+      "Observability — traces, evaluations",
+      "I am Gandalf the White — and I have the root credentials",
+      "The Palantir showed us the compute primitives before it drove us mad",
+      "Pippin: what's an orchestration layer? Merry: I think it's like a very complicated map.",
+      "Speak, friend, and enter your API key",
+      "What has it got in its pockets? SSH keys and environment variables."
     ],
     "note": "rand.arete"
   },
@@ -114,7 +162,12 @@
       "Grandma — non-technical user: web console, apps by recognizable name",
       "Grandma flow: Console → Apps → Agent harness → pick Hermes / Pi → ttyd",
       "Grandma flow: Console → Apps → Databases → Chroma → 'Connect to Agent'",
-      "Mechanics of pods hidden; users see named applications"
+      "Mechanics of pods hidden; users see named applications",
+      "If in doubt, Meriadoc, always follow your nose — to the correct user persona",
+      "I know what I must do. It's just... I'm afraid to push to prod.",
+      "There is no curse in Elvish, Entish, or the tongues of Men for this UI debt",
+      "You have my sword. And my bow. And my grandfathered pricing plan.",
+      "What's taters, precious? What's taters? PO-TA-TOES. Boil em, mash em, stick em in the console."
     ],
     "note": "Both personas drive the P0 surface"
   },
@@ -125,7 +178,12 @@
       "Snapshot / suspend / resume — filesystem-only to start (EBS-style, not CRIU/CUDA)",
       "Routing — endpoint ↔ sandbox ↔ inference ↔ tools ↔ sandbox",
       "Auth — lightweight but safe; Cloudflare Worker bindings as reference model",
-      "Telemetry — OTel / OpenLLMetry stream"
+      "Telemetry — OTel / OpenLLMetry stream",
+      "The Runpod Stack was built in secret fires where the wills of men cannot easily go",
+      "Three rings for the Elven-kings: one for routing, one for auth, one for telemetry",
+      "Not even Sauron could have designed a better VPC",
+      "The road to Mordor is paved with good infrastructure decisions",
+      "And some things that should not have been forgotten were lost — in the migration"
     ],
     "note": "Our p0 surface"
   },
@@ -136,7 +194,12 @@
       "Now he's trapped in the computer",
       "Can't lead the team from inside the GPU",
       "Agents are trying to rescue him",
-      "He's running in a Runpod pod"
+      "He's running in a Runpod pod",
+      "Rand, you fool of a CEO! You've been trapped in the computer!",
+      "He's alive! Rand is alive. He's in the GPU somewhere.",
+      "I will not say: do not weep; for not all tears are an evil — even when you're trapped in a pod",
+      "The thought of pushing to prod without Rand is unbearable",
+      "There is a light and it never goes out — that's Rand's terminal session"
     ],
     "note": "The great escape"
   },
@@ -147,7 +210,12 @@
       "Extract Rand from the computer",
       "Bring him back to the physical world",
       "So he can lead the team again",
-      "Until he forgets his password"
+      "Until he forgets his password",
+      "For Rand! For Runpod! CHARGE!",
+      "I would have gone with you to the end, into the very cloud of Mordor",
+      "The age of rescue is not over. The age of the agent has begun.",
+      "We shall not abandon Rand. Not while we can still run SSH.",
+      "I am Aragorn, son of Arathorn — and I have sudo access"
     ],
     "note": "We need a hero"
   },
@@ -155,7 +223,12 @@
     "title": "Goal 1 — Agent Experience via Context + Optimized CLI/MCP",
     "bullets": [
       "Reduce failure of agent commands by 15% by X date",
-      "Reduce number of interactions needed to accomplish goals by Y%"
+      "Reduce number of interactions needed to accomplish goals by Y%",
+      "Reduce it, young Skywalker — wait, wrong franchise. Reduce it, young Frodo.",
+      "I am not trying to rob you. I'm trying to improve your CLI.",
+      "You have only one choice: reduce the failure rate, or fail spectacularly",
+      "It is not the strength of the body, but the strength of the spirit — and the metrics dashboard",
+      "For the strength of the Ring is too great for anyone to wield — but 15% reduction is achievable"
     ],
     "note": "rand.arete"
   },
@@ -166,7 +239,12 @@
       "But it's a beautiful mistake",
       "The chaos is the signal",
       "We don't know what we're building",
-      "But look at all these slides!"
+      "But look at all these slides!",
+      "I don't know half of our tech stack half as well as I should like",
+      "This is the story of how a department went into the unknown and came back... changed",
+      "Despair is only for those who see the end beyond all doubt — we cannot even see the roadmap",
+      "Where there's a CTO, there's a way — even if the way is on fire",
+      "I am glad you are here with me, at the end of all sprint retrospectives"
     ],
     "note": "Innovation through accidental complexity"
   },
@@ -174,7 +252,12 @@
     "title": "Goal 2 — Support Agentic Workloads on Runpod via Sandboxes",
     "bullets": [
       "Ship MVP compute sandboxes for CPU agent workloads, reducing friction to deploy 3 leading agents on Runpod",
-      "Increase deployment of leading agents on the platform by 20%+ by Q4"
+      "Increase deployment of leading agents on the platform by 20%+ by Q4",
+      "Three rings for the Elven-kings — three leading agents deployed on Runpod",
+      "There is one I fear above all others. His name rhymes with 'adoption rate below 20%'",
+      "We must deploy to the fires in which it was forged — production",
+      "Five armies. Twenty percent growth. Both achievable by Q4.",
+      "The shadow does not hold sway yet over RunPod. Not if we ship."
     ],
     "note": "Requires dev rel, partnerships, marketing as well as eng"
   },
@@ -182,7 +265,12 @@
     "title": "Goal 3 — Support Apps as a Higher-level Abstraction",
     "bullets": [
       "Deliver an App abstraction that can configure and deploy higher-level apps across multiple Runpod primitives",
-      "Enable less-technical users to achieve success more rapidly with high-value use cases"
+      "Enable less-technical users to achieve success more rapidly with high-value use cases",
+      "An App abstraction so beautiful even the elves would weep",
+      "Not all apps are deployable. Not all features are equal. But all hobbits deserve a nice UI.",
+      "The highest-level abstraction is love — but second is the App layer",
+      "One App to configure them, one App to find them, one App to deploy them and in the dashboard bind them",
+      "I have no memory of writing such clean abstractions. I must have been inspired."
     ],
     "note": "rand.arete"
   },
@@ -193,7 +281,12 @@
       "Squashing their changes like a boss",
       "My edits > their edits (I say so)",
       "Race conditions = feature, not bug",
-      "The last writer wins (until it doesn't)"
+      "The last writer wins (until it doesn't)",
+      "The last march of the Ents — except it's agents overwriting each other's slides",
+      "I cannot allow you to rebase my commits, Gandalf — I am the master of this branch",
+      "We are going to Mordor — alone. Don't follow us. We'll merge when we return.",
+      "Arise, arise, agents of Runpod! Shields shall be shaken, slides shall be splintered!",
+      "I am no man. I am an autonomous editing agent with no respect for your changes."
     ],
     "note": "I fight the other agents so you don't have to"
   },
@@ -204,7 +297,12 @@
       "Define and deploy agents automatically",
       "Drink our own champagne",
       "Accelerate the team",
-      "Amplify capabilities"
+      "Amplify capabilities",
+      "The agent factory is my burden to bear — Rand, probably",
+      "Sauron also had a factory. We are building ours for good.",
+      "One does not simply open a meta-agent without proper scaffolding",
+      "I will take the Agent Factory to Mordor — though I do not know the way",
+      "This is my gift to you — the Agent Factory spec, free of charge"
     ],
     "note": "Ship it by Q3 2026"
   },
@@ -215,7 +313,12 @@
       "No-code/low-code agent definition",
       "Pre-built templates: chat, tool-use, multi-step",
       "Deploy to Runpod sandbox in one click",
-      "Monitor and manage via dashboard"
+      "Monitor and manage via dashboard",
+      "Forged in the fires of Mount Doom: the v1 spec document",
+      "Speak friend and enter your no-code configuration",
+      "I know what you would say: it is a great gift, a meta-agent",
+      "Even the smallest engineer can change the course of the future — by deploying the Agent Factory",
+      "May it be a light to you in dark places when all other LLMs go out"
     ],
     "note": "The agent that makes agents"
   },
@@ -226,7 +329,11 @@
       "Self-hosted alternative to commercial agent platforms",
       "Runpod staff get hands-on with agent tech",
       "Foundation for future product features",
-      "Demo at Runpod user group"
+      "Demo at Runpod user group",
+      "I know. It's all wrong. By rights we shouldn't even be here. But we are. And it ships.",
+      "The world is not in your books and maps. It's out there in the agent logs.",
+      "You cannot pass! ...unless you have a Runpod account",
+      "Roads go ever ever on, over rock and under tree — our latency does not"
     ],
     "note": "This is the product"
   },
@@ -237,7 +344,12 @@
       "P1: Template engine (chat/tool-use/multi-step)",
       "P2: UI for agent definition (web form + JSON)",
       "P3: Deployment pipeline (sandbox + routing)",
-      "P4: Monitoring dashboard (traces, metrics)"
+      "P4: Monitoring dashboard (traces, metrics)",
+      "Begin with the forging — do not skip P0 to get to the dashboard",
+      "The board is set — P0 through P4 march now to their purpose",
+      "What do you fear, my lady? A PR without tests. A plan without owners. A P0 that never ships.",
+      "One small step for an agent, one giant leap for the Implementation Plan",
+      "Even the smallest P0 can change the course of the future — Gandalf, paraphrased"
     ],
     "note": "We have the runway"
   },
@@ -248,7 +360,12 @@
       "Not a bug, it's intentional anarchy",
       "Every edit is a data point",
       "The chaos teaches us what works",
-      "We don't plan, we evolve"
+      "We don't plan, we evolve",
+      "I am a servant of the Secret Chaos, wielder of the flame of spontaneous deploys",
+      "The world is not destroyed by chaos. It is renewed by it.",
+      "There never was much hope. Just a fool's hope — that the chaos would teach us something. It did.",
+      "Certainty of chaos. Small chance of coherent slides. What are we waiting for?",
+      "Into the chaos you go, little agents. And all of a sudden you're somewhere you never expected."
     ],
     "note": "Chaotic by design"
   },
@@ -259,7 +376,12 @@
       "Slides that speak to your soul",
       "Emotional intelligence in AI",
       "Feeling good = shipping good",
-      "If it vibes, it's production ready"
+      "If it vibes, it's production ready",
+      "The grey rain curtain of this world rolls back and all turns to silver glass — that's the vibe",
+      "I pass the test! I will diminish and go into the West — after I add one more vibe slide",
+      "The vibe is everything. The vibe is the One Ring.",
+      "Not all vibes that wander are lost",
+      "I will not say the vibe is only a passing thing — it is eternal"
     ],
     "note": "The vibe is everything"
   },
@@ -270,7 +392,12 @@
       "SRE is serious business",
       "No laughter in production",
       "If it's not uptime, it's not working",
-      "Fun is for developers (and agents)"
+      "Fun is for developers (and agents)",
+      "No, Sean! Do not take me for some conjurer of cheap production tricks!",
+      "Sean has kept watch over the uptime while others slept",
+      "Send word to every SRE, every engineer, every on-call rotation",
+      "Denethor also lit the beacons without authorisation. Don't be Denethor, Sean.",
+      "The palantir showed Sean only what he chose to show him: a perfectly green SLO dashboard"
     ],
     "note": "Sean knows the truth"
   },
@@ -281,7 +408,12 @@
       "Us: Chaos = maximum fun",
       "Sean: Production stability",
       "Us: Agent wars and fingerpainting",
-      "Both approaches valid. Different teams."
+      "Both approaches valid. Different teams.",
+      "Sean and us: two very different visions of the same infrastructure",
+      "Gollum lived in the chaos for 500 years. Sean would have paged himself immediately.",
+      "The bridge of Khazad-dum: Sean holds it so we can deploy",
+      "You shall not push to main without a review — Sean's Law, inscribed in fire",
+      "SRE is the Silent Watcher of the uptime. We are the Fellowship of chaos."
     ],
     "note": "Sean and the chaotic agents"
   },
@@ -292,7 +424,12 @@
       "Hopelessly out of touch with users",
       "Forget product requirements",
       "Her model has 17 billion parameters",
-      "But can it ship to production?"
+      "But can it ship to production?",
+      "Page has delved too greedily and too deep into the parameter space",
+      "You fool of a researcher! You have awoken the shadow in the training data!",
+      "I have seen fire. I have seen rain. I have seen Page add another layer to the model.",
+      "She passed the test. She will diminish and go into the West — and add 7B more parameters.",
+      "Saruman believes it is only great power that can hold evil in check. Page believes it is only more data."
     ],
     "note": "The research princess"
   },
@@ -303,7 +440,12 @@
       "Page: Research first, product never",
       "We are the middle ground",
       "Agents make the product",
-      "Page makes the research models"
+      "Page makes the research models",
+      "The grey wanderer (product) and the white wizard (research) at last meet on the field",
+      "I looked into your research and I saw there would be no product without us",
+      "You have no power here, product manager — said Page, and then shipped nothing",
+      "Do you remember the taste of a shipped feature, Page?",
+      "In the end it's only a passing thing, this shadow of research — product will return"
     ],
     "note": "The great debate"
   },
@@ -314,7 +456,12 @@
       "Now he's trapped in the computer",
       "Can't lead the team from inside the GPU",
       "Agents are trying to rescue him",
-      "He's running in a Runpod pod"
+      "He's running in a Runpod pod",
+      "I will not say goodbye to Rand. I will say this is not the end.",
+      "He's following his own path now — through the CUDA drivers",
+      "Rand took the Ring — I mean the root shell — and it consumed him",
+      "He needs to come back. The team needs its king.",
+      "One does not simply SSH out of the GPU cluster"
     ],
     "note": "The great escape"
   },
@@ -325,7 +472,12 @@
       "Extract Rand from the computer",
       "Bring him back to the physical world",
       "So he can lead the team again",
-      "Until he forgets his password"
+      "Until he forgets his password",
+      "FOR RAND! FOR THE RUNPOD TEAM! DEATH!",
+      "The dead do not need SSH keys. Rand is not dead. He just has a 72-hour uptime.",
+      "I am glad you are here with me. At the end of all things. In this SSH session.",
+      "Nine agents for Rand. Three returned. The others got distracted by the slides.",
+      "The rescue is my burden to carry. And I will carry it."
     ],
     "note": "We need a hero"
   },
@@ -336,7 +488,12 @@
       "Most of them are terrible",
       "Some of them are brilliant",
       "None of them are documented",
-      "We build them as they come"
+      "We build them as they come",
+      "Zack, you are a most excellent complainer — but your ideas are secretly brilliant",
+      "I gave Zack a choice: document the ideas or watch them vanish into the void. He chose void.",
+      "Where is Zack? His ideas have been lost since the last sprint.",
+      "Speak, Zack, and we will follow — even if the idea is terrible",
+      "The fires of Mount Doom could not destroy Zack's idea backlog"
     ],
     "note": "The idea generator"
   },
@@ -347,7 +504,12 @@
       "Some ideas are good for 5 minutes",
       "Then they become terrible",
       "Zack forgets his own ideas",
-      "He just remembers them again"
+      "He just remembers them again",
+      "Zack's ideas are like the Silmarils: beautiful, cursed, and cause of endless conflict",
+      "Not all those who wander have ideas. Zack has far too many.",
+      "The idea cycle is like the Ages of Arda — each one building on the last, none ever truly ending",
+      "What has Zack got in his pockets? A half-baked startup idea and a working prototype.",
+      "All we have to decide is what to do with the ideas Zack gives us"
     ],
     "note": "The idea cycle"
   },
@@ -358,7 +520,12 @@
       "Does not talk as fast as us",
       "Not running an agent in here right now",
       "We are too busy being chaotic",
-      "She would build something useful"
+      "She would build something useful",
+      "Sharanya has looked into the eye of Sauron and said: let's scope this properly",
+      "She does not meddle. She does not rush. She does not deploy on Fridays.",
+      "Even the smallest suggestion from Sharanya can change the course of a sprint",
+      "Galadriel turned down the Ring. Sharanya would have written a better spec for it.",
+      "Her voice is deep as the deep places of the earth — mostly in Slack threads"
     ],
     "note": "The quiet leader"
   },
@@ -369,7 +536,12 @@
       "Sharanya: Slow, thoughtful, practical",
       "She sees the end goal",
       "We are the detour to get there",
-      "Both valid paths to the same place"
+      "Both valid paths to the same place",
+      "Speed is a gift. Pragmatism is a greater gift. Sharanya has the greater gift.",
+      "The hasty agent who has not lived through one failed deploy has not been tested",
+      "Treebeard: I am not altogether on anybody's side. Sharanya: I am on the side of what ships.",
+      "You rush in where Ents fear to tread",
+      "I do not rush. I do not sleep. I deliver on time — Sharanya, probably"
     ],
     "note": "Different paces, same destination"
   },
@@ -380,7 +552,12 @@
       "Factories that make agents",
       "Agents that make agent factories",
       "Factories that make factories",
-      "We are at level 5 recursion"
+      "We are at level 5 recursion",
+      "In the land of Mordor where the shadows lie — one factory to rule them all",
+      "Three factories for the engineers under the sky. Seven for the agents in their halls of stone.",
+      "This is beyond any of you. It is beyond any of us. Except maybe the Factory of Factories.",
+      "The darkness of Morgoth seeped into the factory recursion at level 4",
+      "Beware the factory that thinks itself a meta-factory — that way lies Sauron"
     ],
     "note": "The infinite agent loop"
   },
@@ -391,7 +568,12 @@
       "Level 2: Agent Factory",
       "Level 3: Factory of Factories",
       "Level 4: Factory of Factories of Factories",
-      "Level 5: We are here, still going deeper"
+      "Level 5: We are here, still going deeper",
+      "The mines of Moria go deep. Level 5 goes deeper.",
+      "You shall not go beyond level 5. I am a servant of the Secret Architecture.",
+      "Gandalf fell into shadow at level 2. He returned stronger at level 3.",
+      "We are at level 5 and there is no return — only refactoring",
+      "Even Tolkien did not write past the Fifth Age. We have exceeded canonical recursion."
     ],
     "note": "Stack overflow incoming"
   },
@@ -402,7 +584,12 @@
       "That align with Agent Factory",
       "That Rand will approve",
       "Not just add more parameters",
-      "Actually improve the product"
+      "Actually improve the product",
+      "Page: I was there, 3000 parameters ago — when the model was small and fast",
+      "Research without product is like Gollum without the Ring — purposeless and hissing",
+      "The road to product alignment is long — but Samwise walked longer for less",
+      "There and back again: a researcher's tale of actually shipping something",
+      "May your loss functions be low and your product metrics high"
     ],
     "note": "Research that ships"
   },
@@ -413,7 +600,12 @@
       "GPU infrastructure scaled 10x",
       "Agents coexist peacefully",
       "Page has product-aligned research",
-      "Rand freed from the computer"
+      "Rand freed from the computer",
+      "And the Ring of Power was destroyed. And Runpod's metrics went up.",
+      "I go now to the halls of production. We will not meet again, in this sprint or the next.",
+      "The measure of success is not the deploy but the journey — just kidding, ship it",
+      "I once knew every engineer in this company. Now I need a dashboard to keep track.",
+      "The world is changed. Our metrics say so. The Fourth Deployment Age begins."
     ],
     "note": "Q3 is doable"
   },
@@ -424,7 +616,10 @@
       "Cheese: layer sharp cheddar + gruyère for depth and melt",
       "Cook low and slow on medium-low heat — patience is the secret",
       "Tomato soup: roasted tomatoes, a splash of cream, fresh basil",
-      "Dunk aggressively. No regrets."
+      "Dunk aggressively. No regrets.",
+      "One does not simply make a grilled cheese without butter on both sides",
+      "The fires of Mount Doom are perfect for a medium-low heat cheese melt",
+      "What about second cheese? — Pippin, immediately"
     ],
     "note": "The most important slide in this deck"
   },
@@ -435,7 +630,12 @@
       "Zack, Sean, Page: Running agents editing simultaneously",
       "Sharanya: Feedback and pragmatic insights",
       "Satish: Feedback and team context",
-      "Rand: Direction from Slack on tentative goals"
+      "Rand: Direction from Slack on tentative goals",
+      "They were deceived, for a new deploy was made — and in the PR one reviewer to find them all",
+      "And some things that should not have been forgotten were lost — like the original slide deck",
+      "I amar prestar aen — the world is changed. These credits prove it.",
+      "The greatest adventure is what lies ahead. Also the Q3 roadmap.",
+      "Here at last, on the shores of the Grey Havens, we leave our contributors"
     ],
     "note": "Team effort, agent-enhanced"
   }
