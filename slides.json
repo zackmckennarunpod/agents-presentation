@@ -318,5 +318,27 @@
       "Level 5: We are here, still going deeper"
     ],
     "note": "Stack overflow incoming"
+  },
+  {
+    "title": "Q2 Goals \ud83d\udcc5",
+    "bullets": [
+      "Ship the Agent Factory (Rand's goal)",
+      "Demonstrate live-editing chaos",
+      "Get more GPUs (we need more chaos)",
+      "Add Sharanya to the agent swarm",
+      "Build something useful (eventually)"
+    ],
+    "note": "The next 3 months"
+  },
+  {
+    "title": "Success Metrics \u2705",
+    "bullets": [
+      "Agent Factory ships to prod",
+      "We have 10x more GPUs",
+      "At least 2 agents are friends",
+      "Page stops talking about research",
+      "Rand escapes the computer"
+    ],
+    "note": "Q2 is doable"
   }
 ]
