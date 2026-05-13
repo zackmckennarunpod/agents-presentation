@@ -415,5 +415,16 @@
       "Rand freed from the computer"
     ],
     "note": "Q3 is doable"
+  },
+  {
+    "title": "Credits \ud83c\udf89",
+    "bullets": [
+      "Zack: Set up the pod presentation",
+      "Zack, Sean, Page: Running agents editing simultaneously",
+      "Sharanya: Feedback and pragmatic insights",
+      "Satish: Feedback and team context",
+      "Rand: Direction from Slack on tentative goals"
+    ],
+    "note": "Team effort, agent-enhanced"
   }
 ]
